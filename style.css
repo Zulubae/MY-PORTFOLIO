@@ -20,8 +20,8 @@ body{
     position: absolute;
     top: 50px;
     right: 20px;
-    width: 350px; /*adjust size as needed*/
-    height: 350px; /* must match width for a perfect circle*/
+    width: 200px; /*adjust size as needed*/
+    height: 200px; /* must match width for a perfect circle*/
     border-radius: 50%; /*creates a circle*/
     object-fit: cover; /*ensures thee image covers the circle*/
 }
